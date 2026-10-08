@@ -1,0 +1,480 @@
+### PAGE 1
+Guia de estudo • Planejamento Estratégico
+1
+GUIA DE ESTUDO • SISTEMAS DE INFORMAÇÃO
+Planejamento
+Estratégico
+Prova: 09/10 • Ronald Cussati • Faculdade Multivix
+Analogia: a empresa é um barco. Estratégia escolhe o destino e a rota; planejamento decide
+etapas, recursos e medidas; execução rema, mede e corrige quando o mar muda.
+Base: Aulas 1–3, Listas 1–3 com gabaritos e atividades sobre Popper e pitch. O simulado é autoral
+e imita o estilo contextualizado das listas.
+Páginas
+Conteúdo
+2–4
+Estratégia, ambiente, ciclo de vida, missão e metas
+5–7
+SWOT, Porter, BSC, OKR e GUT
+8–10
+Canvas, marketing, Popper e integração
+11–14
+20 objetivas e 4 discursivas
+15–17
+Gabarito e respostas-modelo
+
+
+### PAGE 2
+Guia de estudo • Planejamento Estratégico
+2
+AULA 1
+1. Estratégia, níveis e decisões
+Estratégia é escolher como chegar a uma posição desejada; planejamento estratégico
+transforma essa direção em prioridades, recursos, metas e acompanhamento. “Criar um app” é
+intenção. Escolher um nicho, diferencial e orçamento é estratégia.
+Nível
+Pergunta
+Exemplo em SI
+Estratégico
+Para onde vamos?
+Entrar no ERP para clínicas em 3 anos.
+Tático
+Como cada área contribui?
+Marketing gera leads; TI entrega integrações.
+Operacional
+O que fazemos hoje?
+Configurar API e testar tela.
+Alexandre, Napoleão, César, Mao, Sun Tzu e Maquiavel aparecem como analogias de
+planejamento, logística, adaptação, informação e liderança. Não são receitas morais: decisões
+reais exigem ética e análise de consequências. O caso do médico e do menino lembra que dados
+incompletos trazem incerteza; monitore sinais e revise hipóteses.
+
+
+### PAGE 3
+Guia de estudo • Planejamento Estratégico
+3
+AULA 3
+2. Ambiente, ciclo de vida e portfólio
+Ambiente inclui clientes, concorrentes, fornecedores, tecnologia, leis e economia. Homogêneo
+tem influências semelhantes; heterogêneo, variadas. Estável muda devagar; instável,
+rapidamente.
+Macete: homogêneo/heterogêneo pergunta “quantos tipos diferentes?”. Estável/instável
+pergunta “com que velocidade mudam?”.
+Ciclo de vida: introdução conquista usuários; crescimento amplia mercado; maturidade busca
+eficiência; declínio pede renovação, reposicionamento ou retirada. Inovação pode prolongar a
+maturidade.
+BCG
+Crescimento/participação
+Leitura
+Estrela
+alto/alta
+Investir para crescer.
+Vaca leiteira
+baixo/alta
+Gera caixa.
+Interrogação
+alto/baixa
+Decidir se investe.
+Abacaxi
+baixo/baixa
+Reavaliar ou retirar.
+Ansoff: penetração (produto/mercado atuais), desenvolvimento de mercado (produto
+atual/mercado novo), desenvolvimento de produto (produto novo/mercado atual) e diversificação
+(ambos novos).
+
+
+### PAGE 4
+Guia de estudo • Planejamento Estratégico
+4
+AULA 2
+3. Missão, visão, valores e metas
+Elemento
+Pergunta
+Exemplo
+Missão
+Por que existimos, para quem e
+como?
+Simplificar suporte de pequenas empresas.
+Visão
+Que futuro queremos?
+Ser referência regional até 2028.
+Valores
+Como agimos?
+Transparência, segurança e respeito.
+Meta
+Qual resultado e prazo?
+Primeira resposta em 30 min até dezembro.
+Missão explica o presente; visão é aspiração futura; valores orientam comportamento; meta
+permite verificar resultado. Objetivo “melhorar atendimento” precisa de indicador, alvo, prazo e
+responsável.
+Corporativa: em quais negócios atuar. Competitiva: como vencer. Funcional: como TI,
+marketing, finanças e operações executam a escolha.
+
+
+### PAGE 5
+Guia de estudo • Planejamento Estratégico
+5
+AULA 1 • LISTA 1
+4. SWOT: o raio-X da empresa
+SWOT/FOFA separa fatores internos (forças e fraquezas) de externos (oportunidades e
+ameaças). Pergunte se a empresa controla diretamente o fator.
+Quadrante
+Significado
+Exemplo
+Força
+capacidade interna favorável
+equipe de integração
+Fraqueza
+limitação interna
+baixa produtividade
+Oportunidade
+condição externa favorável
+edital de digitalização
+Ameaça
+condição externa desfavorável
+novo concorrente
+Cruzamento das aulas
+Direção
+Forças + Oportunidades
+Desenvolvimento
+Forças + Ameaças
+Manutenção
+Fraquezas + Oportunidades
+Crescimento
+Fraquezas + Ameaças
+Sobrevivência
+Notícia negativa é normalmente ameaça externa; reputação ruim já instalada pode ser fraqueza.
+Baixa produtividade e alta rotatividade são fraquezas.
+
+
+### PAGE 6
+Guia de estudo • Planejamento Estratégico
+6
+AULA 2 • LISTAS 2–3
+5. Porter: forças e estratégias
+Força
+Pergunta
+Exemplo
+Novos entrantes
+É fácil entrar?
+nuvem reduz barreiras
+Fornecedores
+Podem impor preço?
+provedor único
+Compradores
+Podem pressionar?
+cliente grande
+Substitutos
+Outra solução atende?
+planilha substitui ERP
+Rivalidade
+Concorrentes disputam?
+ERPs semelhantes
+Liderança em custo: eficiência e escala. Diferenciação: algo percebido como único e valioso.
+Enfoque: nicho, por custo ou diferenciação. Clínicas pequenas + auditoria de segurança =
+enfoque em diferenciação.
+Tecnologia moderna só é diferenciação se o cliente perceber valor único; se todos oferecem
+igual, é requisito.
+
+
+### PAGE 7
+Guia de estudo • Planejamento Estratégico
+7
+AULA 2
+6. BSC, OKR e GUT
+BSC
+Pergunta
+Exemplo
+Financeira
+Como proprietários nos veem?
+receita e margem
+Clientes
+Como clientes nos veem?
+retenção e satisfação
+Processos internos
+Em que somos excelentes?
+tempo e qualidade
+Aprendizado
+Como sustentar melhoria?
+competência e inovação
+BSC conecta causa e efeito: aprendizagem melhora processos; processos entregam valor ao
+cliente; clientes sustentam finanças. OKR combina objetivo inspirador com resultados-chave
+mensuráveis, verificáveis e com prazo. “Ativação de 60% para 75% até dezembro” é KR; “fazer
+reunião” é tarefa.
+GUT: Gravidade, Urgência e Tendência. Notas 1–5; quando solicitado, multiplique G×U×T. Maior
+produto = maior prioridade.
+
+
+### PAGE 8
+Guia de estudo • Planejamento Estratégico
+8
+AULA 2
+7. Canvas e proposta de valor
+Bloco
+Pergunta
+Segmentos
+Para quem resolvemos?
+Proposta de valor
+Que problema e benefício?
+Canais
+Como comunicamos/entregamos?
+Relacionamento
+Como conquistamos/mantemos?
+Receitas
+Como entra dinheiro?
+Recursos-chave
+O que é indispensável?
+Atividades-chave
+Que ações são essenciais?
+Parcerias-chave
+Quem fornece capacidade?
+Custos
+Quais gastos principais?
+No Canvas de Valor, descreva tarefas, dores e ganhos; depois conecte produtos, analgésicos e
+criadores de ganhos. “Temos IA” é recurso; “reduzimos 40% da triagem” é valor percebido. Valide
+conversando e testando disposição a pagar.
+
+
+### PAGE 9
+Guia de estudo • Planejamento Estratégico
+9
+AULA 3
+8. Marketing mix e oferta
+4 Ps: Produto, Preço, Praça (acesso/distribuição) e Promoção (comunicação). Venda pelo site e
+parceiros é Praça; demonstração e conteúdo são Promoção.
+Camada
+Exemplo de app de suporte
+Benefício central
+controle dos chamados
+Produto real
+software, telas e integrações
+Produto ampliado
+implantação, treinamento, suporte e SLA
+
+
+### PAGE 10
+Guia de estudo • Planejamento Estratégico
+10
+ATIVIDADE
+9. Popper e benchmarking
+A atividade sobre Mattos e Popper critica transformar histórias de sucesso em receitas universais.
+Um caso pode depender de contexto, seleção tendenciosa e fatores ocultos. Sucesso observado
+sugere hipótese, mas não prova lei.
+Hipótese útil explicita condições, métrica e o que poderia fazê-la falhar. Benchmarking ajuda a
+comparar, mas não autoriza copiar: verifique porte, mercado, tecnologia e definição do indicador.
+Pitch: organização/setor → missão, visão e valores → SWOT → objetivo → estratégia → iniciativas
+→ KPIs, metas e viabilidade.
+
+
+### PAGE 11
+Guia de estudo • Planejamento Estratégico
+11
+SIMULADO
+10. Simulado — objetivas 1–10
+1. “Ser a principal plataforma para clínicas em 2028” é:
+A) tarefa
+B) visão
+C) receita
+D) ameaça
+E) força
+2. Apenas fatores internos:
+A) equipe forte e baixa produtividade
+B) concorrente e lei
+C) inflação e edital
+D) mercado e substituto
+E) programa público e concorrência
+3. Forças + Oportunidades indicam:
+A) sobrevivência
+B) manutenção
+C) desenvolvimento
+D) crescimento
+E) declínio
+4. Provedor único elevou preços. Força:
+A) rivalidade
+B) fornecedores
+C) compradores
+D) substitutos
+E) entrantes
+5. Nicho de clínicas + diferencial de segurança:
+A) custo amplo
+B) enfoque em diferenciação
+C) diversificação
+D) penetração
+E) integração
+6. Reduzir incidentes em produção pertence a:
+A) financeira
+B) clientes
+C) processos internos
+D) aprendizado
+E) visão
+7. Melhor Key Result:
+A) melhorar produto
+B) reunião semanal
+C) ativação 60%→75% até dezembro
+D) pensar satisfação
+E) ter ideia
+8. G=5, U=4, T=3. Produto GUT:
+A)12
+B)20
+C)45
+D)60
+E)543
+9. Empresa de treinamento que fornece especialistas é:
+A) segmento
+B) parceria-chave
+C) receita
+D) proposta
+E) canal
+10. Alta participação e baixo crescimento na BCG:
+A) estrela
+B) interrogação
+C) abacaxi
+D) vaca leiteira
+E) ameaça
+
+
+### PAGE 12
+Guia de estudo • Planejamento Estratégico
+12
+SIMULADO
+11. Simulado — objetivas 11–20
+11. Mesmo produto em mercado novo, na Ansoff:
+A) desenvolvimento de mercado
+B) produto
+C) diversificação
+D) penetração
+E) retirada
+12. Missão explica:
+A) lucro apenas
+B) razão, público e atuação
+C) tecnologia
+D) tarefas
+E) GUT
+13. Ambiente instável:
+A) sem concorrência
+B) só interno
+C) muda rápido e exige adaptação
+D) sempre homogêneo
+E) sem planejamento
+14. Planilha atendendo necessidade do ERP é:
+A) fornecedor
+B) substituto
+C) comprador
+D) entrante necessariamente
+E) valor
+15. Objetivo e indicador:
+A) resultado desejado; indicador mede progresso
+B) indicador é pessoa
+C) objetivo só financeiro
+D) indicador sem unidade
+E) sinônimos
+16. Assinatura e taxa de implantação no Canvas:
+A) canais
+B) recursos
+C) receitas
+D) atividades
+E) valores
+17. Crítica popperiana:
+A) sucesso prova universalidade
+B) histórias inúteis
+C) hipótese deve poder ser refutada
+D) opinião basta
+E) benchmarking substitui pesquisa
+18. Venda por site e parceiros é:
+A) produto
+B) preço
+C) praça
+D) promoção
+E) valores
+19. TI define arquitetura para cumprir objetivo corporativo. É:
+A) estratégia funcional
+B) visão
+C) ameaça
+D) declínio
+E) BCG
+20. Comparar concorrente e testar no próprio contexto é:
+A) indução absoluta
+B) benchmarking crítico
+C) GUT
+D) missão
+E) abstração
+
+
+### PAGE 13
+Guia de estudo • Planejamento Estratégico
+13
+SIMULADO
+12. Discursivas
+1. Uma empresa tem equipe experiente, baixa produtividade, novo concorrente e edital
+público. Monte a SWOT e indique a direção do cruzamento mais relevante.
+Resposta: ____________________________________________________________________________________
+______________________________________________________________________________________________
+______________________________________________________________________________________________
+2. Escolha um produto de SI e explique uma estratégia de Porter com público, proposta
+de valor, risco competitivo e indicador.
+Resposta: ____________________________________________________________________________________
+______________________________________________________________________________________________
+______________________________________________________________________________________________
+3. Monte um mini-BSC para um app de suporte: objetivo e indicador por perspectiva,
+com duas metas numéricas.
+Resposta: ____________________________________________________________________________________
+______________________________________________________________________________________________
+______________________________________________________________________________________________
+4. Explique por que uma história de sucesso não prova regra universal. Mostre como
+Popper e benchmarking a tornam hipótese testável.
+Resposta: ____________________________________________________________________________________
+______________________________________________________________________________________________
+______________________________________________________________________________________________
+
+
+### PAGE 14
+Guia de estudo • Planejamento Estratégico
+14
+RESPOSTAS
+13. Gabarito comentado — 1 a 10
+1. B — Visão é futuro desejado.
+2. A — Equipe e produtividade são internos.
+3. C — Forças aproveitam oportunidades para desenvolvimento.
+4. B — O provedor é fornecedor.
+5. B — Nicho + diferencial = enfoque em diferenciação.
+6. C — Incidentes são processo interno.
+7. C — Tem métrica, alvo e prazo.
+8. D — 5×4×3=60.
+9. B — Fornece capacidade: parceria.
+10. D — Alta participação, baixo crescimento: vaca leiteira.
+
+
+### PAGE 15
+Guia de estudo • Planejamento Estratégico
+15
+RESPOSTAS
+14. Gabarito comentado — 11 a 20
+11. A — Produto atual em mercado novo.
+12. B — Propósito, público e atuação.
+13. C — Mudança rápida.
+14. B — Solução diferente para mesma necessidade.
+15. A — Objetivo é direção; indicador é régua.
+16. C — Formas de capturar dinheiro.
+17. C — Hipótese precisa ser confrontável.
+18. C — Praça trata de acesso e distribuição.
+19. A — Tradução na área funcional de TI.
+20. B — Benchmarking gera hipótese, não cópia automática.
+
+
+### PAGE 16
+Guia de estudo • Planejamento Estratégico
+16
+RESPOSTAS
+15. Respostas-modelo e revisão
+1. Força: equipe experiente. Fraqueza: produtividade. Ameaça: concorrente. Oportunidade: edital.
+Força + oportunidade indica desenvolvimento; eficiência deve acompanhar para combater a
+fraqueza.
+2. Plataforma para clínicas pequenas, enfoque em diferenciação por auditoria e suporte.
+Indicador: tempo de primeira resposta, de 90 para 30 minutos em seis meses.
+3. Financeira: MRR +15%; clientes: CSAT 90%; processos: TMR −20%; aprendizado: 80% treinada.
+Ligue causa, indicador, meta e prazo.
+4. Sucesso depende de contexto. Popper pede hipótese, critérios de falha e testes; benchmarking
+compara organizações semelhantes e exige adaptação.
+Para revisar: refaça uma SWOT, desenhe as cinco forças, preencha um Canvas e calcule um
+GUT. Na discursiva, use definição → aplicação → justificativa → indicador.
+Fontes: materiais do ZIP. Complemento: Mattos, “O que diria Popper à literatura administrativa de mercado?”, RAE 43
+(2003), DOI.

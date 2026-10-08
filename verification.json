@@ -1,0 +1,24 @@
+{
+  "status": "passed",
+  "questions": 42,
+  "essays": 6,
+  "desktop": "1440×1050",
+  "mobile": [
+    "390×844",
+    "320×740"
+  ],
+  "checks": [
+    "correct and incorrect feedback",
+    "all five rationales",
+    "hints",
+    "42 item render coverage",
+    "local persistence",
+    "essay save and rubric",
+    "exam 8+2 with exclusion",
+    "exam correction after finish",
+    "self-assessment",
+    "mobile navigation",
+    "no horizontal document overflow",
+    "no runtime errors"
+  ]
+}

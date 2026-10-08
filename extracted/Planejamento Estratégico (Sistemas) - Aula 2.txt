@@ -1,0 +1,237 @@
+### SLIDE 1
+Introdução (Aula 2) 
+Rafael Altoé Frossard
+Planejamento Estratégico
+
+### SLIDE 2
+Sucesso
+
+
+
+### SLIDE 3
+Sucesso
+
+
+
+### SLIDE 4
+Fracasso
+
+
+
+### SLIDE 5
+Fracasso
+
+
+
+### SLIDE 6
+Antecedentes
+Antes de iniciar o planejamento estratégico, deve-se ter em mente os seguintes elementos:
+Missão: Define a razão de existir da organização. Explica o que faz, para quem faz e como faz. É o propósito presente da empresa.
+Visão: Representa onde a organização quer chegar no futuro. É uma projeção aspiracional, que orienta decisões e esforços.
+Valores: São os princípios éticos e culturais que guiam o comportamento da organização e de seus colaboradores. 
+Metas: São resultados específicos e mensuráveis que a organização busca alcançar em determinado prazo.
+
+
+
+### SLIDE 7
+As 5 Forças de Porter
+
+
+### SLIDE 8
+As 5 Forças de Porter
+Ameaça de novos entrantes: Mede a facilidade com que novas empresas podem entrar no mercado.   
+Poder de negociação dos fornecedores: Indica quanto os fornecedores influenciam preços e condições de insumos.
+Poder de negociação dos compradores: Refere-se à capacidade dos clientes de exigir preços menores ou mais qualidade.
+Ameaça de produtos substitutos: Representa a possibilidade de o cliente trocar por um produto diferente que satisfaça a mesma necessidade.
+Rivalidade entre concorrentes: Mostra o grau de competição entre as empresas do setor.
+
+
+### SLIDE 9
+Estratégias Genéricas
+Liderança em Custo:
+Centrada nos esforços da empresa em buscar a contínua eficiência produtiva com o intuito de aumentar o volume de produção, propiciar a economia de escala e diminuir os gastos e despesas gerais que podem onerar o preço final ao consumidor (que é extremamente sensível aos valores a serem exercidos). 
+Esta prática possibilita, a partir do Modelo das 5 Forças, a diferenciação baseada em custos, que serve como mecanismo de defesa competitiva. 
+
+
+
+### SLIDE 10
+Estratégias Genéricas
+Diferenciação:
+Consiste na criação de diferenciais competitivos percebidos pelo consumidor.
+Considera que o mercado é heterogêneo em relação às suas características e que seus segmentos podem ser agrupados de acordo com suas afinidades. A empresa pode, então, oferecer algo que seus consumidores valorizem, criando, assim como na estratégia anterior, um mecanismo de defesa competitiva.
+A ideia é a lealdade e frequência de consumo por meio da fidelidade do consumidor.
+Essa situação permite que a empresa pratique uma política de preços premium.
+
+
+### SLIDE 11
+Estratégias Genéricas
+Enfoque:
+Definição de um segmento específico de mercado, no qual a empresa deverá concentrar todos os seus recursos e esforços por meio de estratégias relacionadas a custos ou diferenciação competitiva.
+A empresa identifica a existência de um nicho específico de mercado, que se apre-senta como uma oportunidade de negócios; por exemplo, os segmentos de produ-tos saudáveis e orgânicos.
+
+### SLIDE 12
+Estratégias Genéricas
+Enfoque:
+Definição de um segmento específico de mercado, no qual a empresa deverá concentrar todos os seus recursos e esforços por meio de estratégias relacionadas a custos ou diferenciação competitiva.
+A empresa identifica a existência de um nicho específico de mercado, que se apresenta como uma oportunidade de negócios; por exemplo, os segmentos de produtos saudáveis e orgânicos.
+
+### SLIDE 13
+Estratégias de Crescimento
+
+### SLIDE 14
+Balanced Scorecard (BSC)
+Perspectiva Financeira:
+Representa metas a longo prazo, a fim de gerar retornos acima do capital investido na unidade de negócio. É a estratégia para crescimento, lucratividade e risco vista pelo acionista. As medidas de desempenho dessa perspectiva são tipicamente relacionadas com as rentabilidades, como receita operacional, retorno sobre o capital e valor econômico adicionado, entre outras.
+
+### SLIDE 15
+Balanced Scorecard (BSC)
+Perspectiva Clientes: 
+A perspectiva Clientes dá ao executivo uma ideia clara de seus segmentos-alvos de clientes e negócios, dispondo um conjunto de medidas essenciais: participação, retenção, captação, satisfação e lucratividade. Representam metas para operações, logística, marketing e desenvolvimentos de produtos e serviços da empresa. É a estratégia para criar valor e diferenciação a partir da perspectiva do consumidor.
+
+### SLIDE 16
+Balanced Scorecard (BSC)
+Perspectiva Processos Internos:
+ A perspectiva Processos Internos identifica, para os executivos, os processos críticos em que devem buscar a excelência, a fim de atender aos objetivos dos acionistas e de segmentos específicos de clientes. São as prioridades estratégicas para vários processos comerciais, as quais geram a satisfação do consumidor e do acionista.
+
+### SLIDE 17
+Balanced Scorecard (BSC)
+Perspectiva Aprendizado e Crescimento:
+A perspectiva Aprendizado e Crescimento desenvolve objetivos e medidas para orientar o aprendizado e o crescimento organizacional. São as prioridades para criar um clima que dê suporte à mudança, à inovação e ao crescimento organizacional.
+
+### SLIDE 18
+Balanced Scorecard (BSC)
+
+### SLIDE 19
+Objectives and Key Results (OKR)
+Metodologia de gestão que ajuda a garantir que toda a empresa concentre os esforços nas mesmas questões importantes em toda a organização.
+Os objetivos (O) são significativos, concretos, orientados por ações e, de maneira ideal, inspiradores. Quando adequadamente projetados e implementados, são uma vacina contra o pensamento e contra as execuções confusas.
+Os Resultados-Chave (KR) estabelecem e monitoram como chegamos ao objetivo. Já os OKRs efetivos são específicos e limitados no tempo, agressivos, porém realistas. Acima de tudo, são mensuráveis e verificáveis.
+
+
+
+
+### SLIDE 20
+Matriz GUT
+Avalia a Gravidade, Urgência e Tendência de um problema/tarefas a realizar.
+Gravidade: quais problemas irão aparecer se o problema não for resolvido?
+Urgência: em quanto tempo precisa ser solucionado? 
+Tendência: o problema tende a piorar ao longo do tempo?
+
+
+
+
+### SLIDE 21
+Business Model Canvas
+O Canvas foi desenhado de tal maneira que representasse o cérebro humano: direita para as emoções e esquerda para a razão. 
+Recomenda-se que seja preenchido da direita para a esquerda: sentido anti-horário. 
+Logo, a seguir se encontra a ordem correta de preenchimento:
+1 Segmento de clientes;
+2 Proposta de valor;
+3 Relacionamento com clientes;
+4 Canais;
+5 Atividades-chave;
+6 Recursos-chave;
+7 Parcerias-chave;
+8 Fonte de custos;
+9 Fonte de receitas.
+
+
+
+
+
+### SLIDE 22
+Segmento de Clientes
+Envolve ter empatia pelo público escolhido, conhecendo seus hábitos, processo de decisão de compra etc. 
+Busca solucionar um problema. 
+Perguntas que podem ajudar: para quem estamos criando valor? Quem são os segmentos de clientes mais importantes? Qual a necessidade/desejo do público-alvo? Onde os componentes desse público estão localizados? Por quais valores os clientes estão realmente interessados em pagar? Como eles estão pagando atualmente? Como eles gostariam de pagar? Quais são os medos, dores e riscos associados à compra, utilização, descarte ou revenda?
+Recomenda-se o encaixe do segmento de clientes com a proposta de valor. 
+
+
+
+### SLIDE 23
+Proposta de Valor
+É a promessa daquilo que será entregue ao cliente. 
+Deve ser delimitada com clareza, objetividade e transparência. 
+Define o valor percebido pelo cliente.
+Está ligada à faixa de preço que o consumidor estará disposto a pagar. 
+Recomenda-se a utilização do Value Proposition Canvas para criar uma proposta de valor clara e ajustada ao problema identificado, encaixando-a com o segmento de clientes.  
+O Value Proposition Canvas deve ser preenchido da direita para a esquerda, conforme modelo a seguir: 
+
+
+
+
+
+### SLIDE 24
+Relacionamento com Clientes
+Define o nível de relacionamento que a empresa pretende ter com os clientes. 
+Varia desde questões de curto prazo (como a mera transação de itens), como o estabelecimento de vínculos de longo prazo (programas de fidelização). 
+Cabe ao empreendedor definir qual estratégia será utilizada.
+
+
+
+
+
+### SLIDE 25
+Canais
+Consiste em estabelecer os canais de comunicação e disponibilização do produto ou serviço.
+Podem ser resumidas nas partes P (Promoção) e P (Praça) do mix de marketing. 
+Canais de Comunicação ou P (Promoção): divulgação do produto. 
+Disponibilização do produto/serviço ou P (Praça): onde o cliente acesso o produto/serviço.
+
+
+
+
+
+### SLIDE 26
+Atividades-chave
+Identificação das atividades importantes para a criação e a entrega de valor ao cliente.
+Dica: utilizar verbos no infinitivo. Exemplos: vender, criar, falar, elaborar etc. 
+
+
+
+
+
+### SLIDE 27
+Recursos-chave
+Elenca-se os principais recursos a serem utilizados na criação e na entrega de valor da empresa. 
+Dica: ignore recursos secundários (exemplo: material de escritório). 
+
+
+
+
+
+
+### SLIDE 28
+Parcerias-chave
+Pessoas e entidades com as quais a empresa pode firmar parcerias. 
+Ajuda na obtenção de informações sobre o mercado. 
+Auxiliam na concretização da ideia. 
+
+
+
+
+
+
+### SLIDE 29
+Fonte de Custos
+Lista-se os itens que geram custo para a empresa. 
+Atenha-se àqueles que geram maior saída de caixa. 
+Não é necessário listar os valores monetários, somente os nomes dos itens. 
+Custos pequenos (como material de escritório) podem ser agrupados em categorias parecidas. 
+
+
+
+
+
+
+
+### SLIDE 30
+Fonte de Receitas
+Aponta-se os itens responsáveis pelas entradas de caixa no negócio. 
+Quais são os objetos de venda da empresa? 
+
+
+
+
+
+

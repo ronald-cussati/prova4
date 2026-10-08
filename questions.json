@@ -1,0 +1,1103 @@
+[
+  {
+    "id": "L1Q1",
+    "source": "Lista 1 · questão 1",
+    "origin": "Lista",
+    "stem": "FGV) A análise do ambiente em organizações públicas é um processo que avalia as condições externas e internas que podem influenciar sua atuação. Isso inclui o exame de fatores políticos, econômicos, sociais, tecnológicos, legais e ambientais, além da análise de forças, fraquezas, oportunidades e ameaças (análise SWOT).\nA análise que aponta os processos e projetos que precisam de alterações para renderem o esperado e a análise que visa a determinar fatores e mudanças no mercado que podem ser usadas em benefício da empresa são, respectivamente,",
+    "options": [
+      "Falhas e Oportunidades.",
+      "Fraquezas e Oportunidades.",
+      "Ameaças e Forças.",
+      "Oportunidades e Fraquezas.",
+      "Falhas e Forças."
+    ],
+    "answer": 1,
+    "topic": "SWOT",
+    "difficulty": "Média",
+    "hint": "Separe o que pertence à organização do que vem do ambiente.",
+    "reasons": [
+      "“Falhas” descreve um problema, mas não é o nome do quadrante SWOT.",
+      "Processos internos deficientes são fraquezas; mudanças externas favoráveis são oportunidades.",
+      "Ameaças são externas e negativas; forças são internas e positivas. O caso exige o inverso.",
+      "A ordem importa: primeiro há uma limitação interna, depois uma condição externa favorável.",
+      "O primeiro termo não é um quadrante e o segundo descreve uma capacidade interna positiva."
+    ],
+    "prob": "Muito alta",
+    "evidence": "Tema cobrado nas listas e desenvolvido nos slides. A estimativa se refere ao tema, não à repetição literal desta questão."
+  },
+  {
+    "id": "L1Q2",
+    "source": "Lista 1 · questão 2",
+    "origin": "Lista",
+    "stem": "AOCP) Você, como técnico judiciário do Tribunal Regional Federal da 2ª Região, precisa elaborar um plano e sugerir que tipo de estratégia seria mais adequada ao Tribunal. Em termos específicos, você notou a presença de pontos fracos (internos) e de um ambiente que proporciona situações favoráveis, ou seja, oportunidades. Diante do exposto, qual estratégia deve ser escolhida para elaborar o plano?",
+    "options": [
+      "Estratégia de manutenção.",
+      "Estratégia de sobrevivência.",
+      "Estratégia de crescimento.",
+      "Estratégia de desenvolvimento.",
+      "Estratégia de inovação."
+    ],
+    "answer": 2,
+    "topic": "SWOT",
+    "difficulty": "Média",
+    "hint": "Use a nomenclatura do cruzamento da Aula 1, slide 20.",
+    "reasons": [
+      "Manutenção combina forças com ameaças.",
+      "Sobrevivência combina fraquezas com ameaças.",
+      "Crescimento combina fraquezas com oportunidades, conforme o quadro da aula.",
+      "Desenvolvimento combina forças com oportunidades.",
+      "Inovação pode integrar ações, mas não nomeia esse cruzamento no quadro da aula."
+    ],
+    "prob": "Muito alta",
+    "evidence": "Tema cobrado nas listas e desenvolvido nos slides. A estimativa se refere ao tema, não à repetição literal desta questão."
+  },
+  {
+    "id": "L1Q3",
+    "source": "Lista 1 · questão 3",
+    "origin": "Lista",
+    "stem": "Cesgranrio) Ao realizar a análise de cenário para uma empresa de mineração, o gestor levantou dados a respeito da imagem da empresa na mídia. Segundo seu levantamento, de cada dez matérias jornalísticas que mencionavam a empresa, nove lhe eram desfavoráveis, e isso prejudicava não apenas a imagem da empresa, mas também dificultava a captação de recursos de investidores.\nAo montar a análise SWOT, o gestor classificará a cobertura negativa da imprensa a respeito das atividades da empresa como",
+    "options": [
+      "força",
+      "ameaça",
+      "fraqueza",
+      "ponto fraco",
+      "oportunidade"
+    ],
+    "answer": 1,
+    "topic": "SWOT",
+    "difficulty": "Difícil",
+    "hint": "O enunciado classifica a cobertura da imprensa, não a reputação interna já consolidada.",
+    "reasons": [
+      "Não há uma capacidade interna favorável.",
+      "A cobertura negativa é uma pressão externa desfavorável. O gabarito fornecido a classifica como ameaça.",
+      "A reputação deteriorada pode ser analisada como fraqueza em outro enunciado; aqui o fator pedido é a cobertura externa.",
+      "Ponto fraco equivale a fraqueza interna. O objeto específico é a cobertura da imprensa.",
+      "A cobertura descrita prejudica a organização; não é uma condição favorável."
+    ],
+    "prob": "Muito alta",
+    "evidence": "Tema cobrado nas listas e desenvolvido nos slides. A estimativa se refere ao tema, não à repetição literal desta questão."
+  },
+  {
+    "id": "L1Q4",
+    "source": "Lista 1 · questão 4",
+    "origin": "Lista",
+    "stem": "VUNESP) Em um documento do Tribunal de Contas da União (TCU) sobre o uso da Análise SWOT aplicada na Auditoria, lê-se:\n“(…) Nos trabalhos de auditoria, a elaboração da matriz SWOT auxilia a equipe a caracterizar, de forma sistemática, situações relacionadas às forças ou fraquezas, bem como às oportunidades e às ameaças, concernentes ao objeto da auditoria. Permite, dessa forma, identificar estratégias adequadas e equilibradas para priorizar a atuação no trabalho de auditoria. (…) Nesta análise, as informações sobre _______________ e _______________ podem estar referenciadas a beneficiários, fornecedores, concorrentes (programas semelhantes de iniciativa de outras esferas de governo). No macro ambiente podem referir-se a situações econômicas, demográficas, políticas, culturais, tecnológicas, legais, ecológicas e sociais”.\n(Portaria TCU-SEGECEX no 31, de 9 de dezembro de 2010)\nConsiderando a matriz SWOT, assinale a alternativa que apresenta os termos que preenchem, correta e respectivamente, as lacunas.",
+    "options": [
+      "forças … fraquezas",
+      "ameaças … oportunidades",
+      "forças … oportunidades",
+      "fraquezas … ameaças",
+      "forças … ameaças"
+    ],
+    "answer": 1,
+    "topic": "SWOT",
+    "difficulty": "Média",
+    "hint": "Observe de onde vêm os fatores: fornecedores, concorrentes e macroambiente.",
+    "reasons": [
+      "Forças e fraquezas são fatores internos, enquanto os exemplos são externos.",
+      "Ameaças e oportunidades pertencem ao ambiente externo, incluindo o ambiente de tarefa e o macroambiente.",
+      "Mistura uma capacidade interna com uma condição externa.",
+      "Mistura uma limitação interna com uma condição externa.",
+      "Mistura uma capacidade interna com uma condição externa."
+    ],
+    "prob": "Muito alta",
+    "evidence": "Tema cobrado nas listas e desenvolvido nos slides. A estimativa se refere ao tema, não à repetição literal desta questão."
+  },
+  {
+    "id": "L1Q5",
+    "source": "Lista 1 · questão 5",
+    "origin": "Lista",
+    "stem": "A Análise SWOT é um acrônimo dos termos: forças, fraquezas, oportunidades e ameaças. Este modelo permite às organizações identificar, rapidamente, tanto seus fatores internos, quanto os fatores externos que dependem do ambiente em que está envolvido. A análise SWOT é utilizada como um instrumento de tomada de decisão e para facilitar o desenvolvimento de planos estratégicos. O poder da análise SWOT reside em sua simplicidade. Além de ser fácil de usar, também fornece resultados que pode ser facilmente comunicados.\n(A Análise SWOT, Christophe Speth, 50minutes.com, 2023.)\nAo aplicar a análise SWOT em um renomado hospital municipal, a gestora da área de recursos humanos apurou que sua organização possui baixa produtividade, alta taxa de rotatividade e dificuldade para cumprir prazos. Os aspectos apontados referem-se:",
+    "options": [
+      "às ameaças da empresa.",
+      "às fraquezas da empresa.",
+      "aos riscos da empresa.",
+      "às forças da empresa.",
+      "às oportunidades da empresa."
+    ],
+    "answer": 1,
+    "topic": "SWOT",
+    "difficulty": "Fácil",
+    "hint": "Pergunte onde surgem produtividade, rotatividade e cumprimento de prazos.",
+    "reasons": [
+      "Ameaças se originam no ambiente externo.",
+      "Os três problemas são limitações internas que prejudicam o desempenho.",
+      "Risco é um termo amplo; o quadrante específico é fraquezas.",
+      "Forças são capacidades favoráveis, opostas aos problemas descritos.",
+      "Oportunidades são condições externas favoráveis."
+    ],
+    "prob": "Muito alta",
+    "evidence": "Tema cobrado nas listas e desenvolvido nos slides. A estimativa se refere ao tema, não à repetição literal desta questão."
+  },
+  {
+    "id": "L2Q1",
+    "source": "Lista 2 · questão 1",
+    "origin": "Lista",
+    "stem": "Uma empresa tradicional do ramo têxtil enfrenta dificuldades para competir com novos entrantes que utilizam tecnologia de produção automatizada e vendem diretamente ao consumidor final. Para compreender melhor o ambiente competitivo, os gestores decidem aplicar o Modelo das 5 Forças de Porter.\nA análise permitirá identificar que a principal força afetada nesse contexto é:",
+    "options": [
+      "Poder de negociação dos fornecedores.",
+      "Poder de negociação dos compradores.",
+      "Ameaça de novos entrantes.",
+      "Ameaça de produtos substitutos.",
+      "Rivalidade entre concorrentes."
+    ],
+    "answer": 4,
+    "topic": "Porter",
+    "difficulty": "Difícil",
+    "hint": "O caso enfatiza a chegada de empresas ao setor.",
+    "reasons": [
+      "O caso não informa pressão de quem fornece insumos.",
+      "Venda direta não comprova poder de barganha dos clientes.",
+      "Leitura defensável: a chegada de novas empresas destaca a ameaça de entrada. O gabarito fornecido, porém, marca rivalidade; ambas as leituras são aceitas neste treino.",
+      "Substituto atende à mesma necessidade por solução diferente; automação não basta para caracterizá-lo.",
+      "É a opção destacada no gabarito fornecido. A entrada já ocorrida pode intensificar a rivalidade. O texto também admite foco na ameaça de novos entrantes; ambas as leituras são aceitas neste treino."
+    ],
+    "prob": "Muito alta",
+    "evidence": "Tema cobrado nas listas e desenvolvido nos slides. A estimativa se refere ao tema, não à repetição literal desta questão.",
+    "accepted": [
+      2,
+      4
+    ],
+    "excludeExam": true,
+    "notice": "Questão ambígua. O DOCX destaca E: Rivalidade entre concorrentes. A chegada de empresas também sustenta C: Ameaça de novos entrantes. No treino, ambas são aceitas com ressalva; esta questão não entra no modo prova."
+  },
+  {
+    "id": "L2Q2",
+    "source": "Lista 2 · questão 2",
+    "origin": "Lista",
+    "stem": "Uma empresa do setor alimentício pretende se diferenciar no mercado ao oferecer produtos orgânicos, artesanais e sustentáveis, para um público que valoriza a saúde e o meio ambiente. A gestão decide concentrar seus esforços em um nicho específico, em vez de competir em toda a indústria.\nA estratégia genérica adotada pela empresa, segundo Michael Porter, é:",
+    "options": [
+      "Liderança em custo.",
+      "Diferenciação ampla.",
+      "Enfoque em diferenciação.",
+      "Diversificação horizontal.",
+      "Expansão vertical."
+    ],
+    "answer": 2,
+    "topic": "Porter",
+    "difficulty": "Média",
+    "hint": "Combine a amplitude do público atendido com a fonte da vantagem.",
+    "reasons": [
+      "O diferencial é valor percebido, não o menor custo de produção.",
+      "O diferencial existe, mas o escopo é restrito a um nicho.",
+      "Nicho restrito e atributos valorizados pelo público caracterizam enfoque em diferenciação.",
+      "Diversificação trata da expansão de negócios/produtos, não dessa escolha de vantagem e escopo.",
+      "Integração vertical trata de etapas da cadeia produtiva, ausente no caso."
+    ],
+    "prob": "Muito alta",
+    "evidence": "Tema cobrado nas listas e desenvolvido nos slides. A estimativa se refere ao tema, não à repetição literal desta questão."
+  },
+  {
+    "id": "L2Q3",
+    "source": "Lista 2 · questão 3",
+    "origin": "Lista",
+    "stem": "Uma startup do setor de tecnologia, em fase de consolidação, percebeu que seus colaboradores demonstram confusão quanto ao propósito da empresa e aos limites de sua atuação. O CEO decide iniciar um processo de planejamento estratégico para redefinir os pilares organizacionais. Nesse processo, ele identifica que é essencial estabelecer, de forma clara, o que a empresa faz, para quem faz e como faz, de modo a orientar decisões diárias e alinhar expectativas.\nCom base nessa situação, o elemento do planejamento estratégico que deve ser priorizado inicialmente é:",
+    "options": [
+      "A visão organizacional.",
+      "A missão organizacional.",
+      "Os valores organizacionais.",
+      "As metas operacionais.",
+      "O benchmarking competitivo."
+    ],
+    "answer": 1,
+    "topic": "Identidade",
+    "difficulty": "Fácil",
+    "hint": "Procure a expressão “o que faz, para quem faz e como faz”.",
+    "reasons": [
+      "Visão descreve uma posição futura desejada.",
+      "Missão define o propósito presente e os limites de atuação.",
+      "Valores orientam princípios e condutas.",
+      "Metas especificam resultados e prazos.",
+      "Benchmarking compara práticas e resultados de outras organizações."
+    ],
+    "prob": "Muito alta",
+    "evidence": "Tema cobrado nas listas e desenvolvido nos slides. A estimativa se refere ao tema, não à repetição literal desta questão."
+  },
+  {
+    "id": "L2Q4",
+    "source": "Lista 2 · questão 4",
+    "origin": "Lista",
+    "stem": "Um grupo de empreendedores criou uma startup de aplicativos para gestão financeira pessoal. Para validar o modelo de negócio, aplicaram o Business Model Canvas. No momento do preenchimento, perceberam que precisam identificar as pessoas ou instituições com as quais farão alianças estratégicas, para garantir acesso a informações e recursos essenciais.\nNesse caso, estão preenchendo o bloco:",
+    "options": [
+      "Recursos-chave.",
+      "Parcerias-chave.",
+      "Atividades-chave.",
+      "Canais.",
+      "Fontes de custos."
+    ],
+    "answer": 1,
+    "topic": "Canvas",
+    "difficulty": "Fácil",
+    "hint": "Diferencie quem coopera, o que a empresa possui e o que executa.",
+    "reasons": [
+      "Recursos-chave são ativos/capacidades essenciais, não a lista de aliados.",
+      "Pessoas e instituições que viabilizam o negócio por alianças entram em parcerias-chave.",
+      "Atividades-chave descrevem ações essenciais, como desenvolver e entregar.",
+      "Canais são meios de comunicação e distribuição ao cliente.",
+      "Custos registram as principais saídas do modelo."
+    ],
+    "prob": "Muito alta",
+    "evidence": "Tema cobrado nas listas e desenvolvido nos slides. A estimativa se refere ao tema, não à repetição literal desta questão."
+  },
+  {
+    "id": "L2Q5",
+    "source": "Lista 2 · questão 5",
+    "origin": "Lista",
+    "stem": "Durante uma consultoria, um grupo de gestores percebe que sua empresa enfrenta vários problemas: falhas no atendimento, atrasos de produção e queda nas vendas. Para decidir o que resolver primeiro, aplicam a Matriz GUT, atribuindo notas de 1 a 5 para cada aspecto.\nO principal objetivo dessa ferramenta é:",
+    "options": [
+      "Determinar a causa-raiz dos problemas.",
+      "Classificar os problemas por ordem de prioridade.",
+      "Avaliar a lucratividade dos projetos.",
+      "Estabelecer metas financeiras de curto prazo.",
+      "Identificar stakeholders prioritários."
+    ],
+    "answer": 1,
+    "topic": "GUT",
+    "difficulty": "Fácil",
+    "hint": "A ferramenta compara problemas por três critérios.",
+    "reasons": [
+      "A GUT ordena prioridades; a causa-raiz requer investigação adicional.",
+      "Gravidade, urgência e tendência permitem comparar a prioridade de intervenção.",
+      "Lucratividade não é um dos três critérios.",
+      "A ferramenta não define metas financeiras.",
+      "A GUT prioriza problemas; não é uma matriz de stakeholders."
+    ],
+    "prob": "Alta",
+    "evidence": "Tema cobrado nas listas e desenvolvido nos slides. A estimativa se refere ao tema, não à repetição literal desta questão."
+  },
+  {
+    "id": "L3Q1",
+    "source": "Lista 3 · questão 1",
+    "origin": "Lista",
+    "stem": "Uma organização do setor financeiro está passando por um processo de reestruturação. O novo CEO deseja que os colaboradores compreendam melhor a essência da empresa e seu propósito. Ele decide reforçar qual é a razão de existir da instituição, explicando o que ela faz, para quem faz e como faz, a fim de alinhar o comportamento dos funcionários.\nCom base no conteúdo estudado, o conceito central abordado pelo CEO é:",
+    "options": [
+      "Visão.",
+      "Valores.",
+      "Missão.",
+      "Metas.",
+      "Estratégia."
+    ],
+    "answer": 2,
+    "topic": "Identidade",
+    "difficulty": "Fácil",
+    "hint": "Diferencie propósito atual e aspiração futura.",
+    "reasons": [
+      "Visão expressa o futuro desejado.",
+      "Valores expressam princípios de comportamento.",
+      "Missão comunica a razão de existir e a atuação presente.",
+      "Metas são resultados específicos com prazo.",
+      "Estratégia define escolhas e caminhos para alcançar objetivos."
+    ],
+    "prob": "Muito alta",
+    "evidence": "Tema cobrado nas listas e desenvolvido nos slides. A estimativa se refere ao tema, não à repetição literal desta questão."
+  },
+  {
+    "id": "L3Q2",
+    "source": "Lista 3 · questão 2",
+    "origin": "Lista",
+    "stem": "A empresa BioVita, produtora de alimentos orgânicos, percebeu um nicho de mercado crescente entre consumidores que buscam produtos sustentáveis e naturais. Para explorar esse público, a organização decide concentrar todos os seus esforços em atender esse grupo específico, personalizando produtos e campanhas.\nDe acordo com as estratégias genéricas de Porter, a BioVita adota a estratégia de:",
+    "options": [
+      "Liderança em custo.",
+      "Diferenciação.",
+      "Enfoque.",
+      "Expansão.",
+      "Diversificação."
+    ],
+    "answer": 2,
+    "topic": "Porter",
+    "difficulty": "Média",
+    "hint": "O dado decisivo é a concentração em um grupo específico.",
+    "reasons": [
+      "Não se descreve eficiência para obter menor custo.",
+      "Diferenciação isolada não explicita a restrição de escopo que o caso enfatiza.",
+      "A concentração dos esforços em um nicho caracteriza enfoque. A personalização pode sustentá-lo.",
+      "Expansão é uma direção de crescimento, não a estratégia genérica pedida.",
+      "Não há entrada em produtos e mercados novos para caracterizar diversificação."
+    ],
+    "prob": "Muito alta",
+    "evidence": "Tema cobrado nas listas e desenvolvido nos slides. A estimativa se refere ao tema, não à repetição literal desta questão."
+  },
+  {
+    "id": "L3Q3",
+    "source": "Lista 3 · questão 3",
+    "origin": "Lista",
+    "stem": "A TechSoft, empresa de softwares educacionais, enfrenta dificuldades para competir com grandes players do mercado que possuem altos investimentos em marketing e tecnologia. Ao aplicar o modelo das 5 Forças de Porter, percebe-se que os consumidores têm poder de negociar preços mais baixos, e novos concorrentes entram com facilidade no setor.\nNesse cenário, as forças mais críticas para a TechSoft são:",
+    "options": [
+      "Rivalidade e poder dos fornecedores.",
+      "Poder dos compradores e ameaça de novos entrantes.",
+      "Produtos substitutos e rivalidade setorial.",
+      "Barreiras de entrada e poder dos acionistas.",
+      "Ameaça de substitutos e força dos sindicatos."
+    ],
+    "answer": 1,
+    "topic": "Porter",
+    "difficulty": "Difícil",
+    "hint": "Leia os dois fatos explícitos: negociação de preço e facilidade de entrada.",
+    "reasons": [
+      "O DOCX destaca esta opção, mas o texto não informa poder de fornecedores. O cenário destaca explicitamente a negociação dos compradores e a facilidade de entrada, correspondentes à opção B original.",
+      "Consumidores pressionam preços: compradores. Facilidade de entrada: novos entrantes.",
+      "Não se descreve uma solução diferente que substitua o software.",
+      "Acionistas não constituem uma das cinco forças. Barreiras explicam a ameaça de entrada.",
+      "O caso não descreve sindicatos nem soluções substitutas."
+    ],
+    "prob": "Muito alta",
+    "evidence": "Tema cobrado nas listas e desenvolvido nos slides. A estimativa se refere ao tema, não à repetição literal desta questão.",
+    "originalAnswer": 0,
+    "excludeExam": true,
+    "notice": "Divergência no material. O DOCX destaca A: Rivalidade e poder dos fornecedores. O trecho decisivo descreve compradores negociando preços e facilidade de entrada. O treino adota B, coerente com a Aula 2, slide 8. A questão não entra no modo prova."
+  },
+  {
+    "id": "L3Q4",
+    "source": "Lista 3 · questão 4",
+    "origin": "Lista",
+    "stem": "Uma empresa de eletrônicos decidiu investir em tecnologia e inovação para criar produtos únicos, com design diferenciado e alto valor agregado. Como resultado, conquistou um público fiel disposto a pagar preços superiores.\nSegundo o modelo de Porter, essa empresa está adotando a estratégia de:",
+    "options": [
+      "Diferenciação.",
+      "Enfoque em custo.",
+      "Liderança em custo.",
+      "Estratégia de crescimento.",
+      "Diversificação vertical."
+    ],
+    "answer": 0,
+    "topic": "Porter",
+    "difficulty": "Média",
+    "hint": "Qual é a fonte da disposição do cliente a pagar mais?",
+    "reasons": [
+      "Atributos únicos e valorizados sustentam a diferenciação e o preço premium.",
+      "Não há escopo restrito nem vantagem de baixo custo descritos.",
+      "A proposta se apoia em unicidade percebida, não em custo mínimo.",
+      "Crescimento não identifica a fonte de vantagem competitiva pedida.",
+      "Não se descreve aquisição/controle de etapas da cadeia produtiva."
+    ],
+    "prob": "Muito alta",
+    "evidence": "Tema cobrado nas listas e desenvolvido nos slides. A estimativa se refere ao tema, não à repetição literal desta questão."
+  },
+  {
+    "id": "L3Q5",
+    "source": "Lista 3 · questão 5",
+    "origin": "Lista",
+    "stem": "Uma empresa de logística deseja representar seu modelo de negócios de forma visual e integrada. Para isso, utiliza o Business Model Canvas, que permite descrever como a organização cria, entrega e captura valor. Durante o preenchimento, o gestor identifica o bloco onde deverá registrar quem são os parceiros estratégicos e entidades auxiliares.\nEsse bloco corresponde a:",
+    "options": [
+      "Recursos-chave.",
+      "Parcerias-chave.",
+      "Atividades-chave.",
+      "Canais.",
+      "Fontes de receita."
+    ],
+    "answer": 1,
+    "topic": "Canvas",
+    "difficulty": "Fácil",
+    "hint": "O enunciado pergunta quem ajuda a viabilizar o negócio.",
+    "reasons": [
+      "Recursos são ativos/capacidades, enquanto parceiros são agentes com os quais se coopera.",
+      "Parceiros estratégicos e entidades auxiliares compõem parcerias-chave.",
+      "Atividades indicam o que executar, não quem coopera.",
+      "Canais ligam a empresa ao cliente por comunicação e distribuição.",
+      "Receitas registram como o modelo captura dinheiro."
+    ],
+    "prob": "Muito alta",
+    "evidence": "Tema cobrado nas listas e desenvolvido nos slides. A estimativa se refere ao tema, não à repetição literal desta questão."
+  },
+  {
+    "id": "A01",
+    "topic": "Níveis",
+    "difficulty": "Média",
+    "prob": "Alta",
+    "source": "Aula 1 · slides 12–16",
+    "origin": "Autoral",
+    "stem": "Uma empresa define atuar nacionalmente em três anos. A gerência de TI cria um plano semestral de capacidade, e a equipe agenda as rotinas de backup. Esses três atos correspondem, respectivamente, a quais níveis?",
+    "hint": "Classifique pela abrangência da decisão e pela responsabilidade, sem depender apenas do prazo.",
+    "options": [
+      "Tático, estratégico e operacional.",
+      "Estratégico, operacional e tático.",
+      "Operacional, tático e estratégico.",
+      "Estratégico, tático e operacional.",
+      "Tático, operacional e estratégico."
+    ],
+    "answer": 3,
+    "reasons": [
+      "A atuação nacional define a direção global, não apenas uma área.",
+      "O plano da gerência traduz a direção na área; o backup executa rotinas. A ordem dos dois últimos foi invertida.",
+      "A decisão global não é execução rotineira, e o backup não define o futuro da organização.",
+      "Direção global é estratégica; desdobramento na área é tático; rotina de execução é operacional.",
+      "A decisão global é estratégica, e a rotina de backup é operacional."
+    ],
+    "evidence": "Aplicação autoral de conteúdo explícito dos slides. A estimativa é qualitativa e se refere ao tema."
+  },
+  {
+    "id": "A02",
+    "topic": "Identidade",
+    "difficulty": "Média",
+    "prob": "Muito alta",
+    "source": "Aula 2 · slide 6; Listas 2–3",
+    "origin": "Autoral",
+    "stem": "Um plano registra: I. “Existimos para simplificar a gestão das clínicas.” II. “Ser a principal referência regional em 2028.” III. “Tratar dados com transparência.” IV. “Reduzir o tempo de suporte para 30 minutos até dezembro.” A sequência correta é:",
+    "hint": "Identifique propósito, futuro, princípio e resultado verificável.",
+    "options": [
+      "Missão, visão, valores e meta.",
+      "Visão, missão, valores e meta.",
+      "Missão, meta, visão e valores.",
+      "Valores, visão, missão e meta.",
+      "Missão, visão, meta e valores."
+    ],
+    "answer": 0,
+    "reasons": [
+      "I define propósito atual; II projeta o futuro; III orienta conduta; IV fixa resultado mensurável e prazo.",
+      "O propósito presente e a aspiração futura foram invertidos.",
+      "II é uma posição futura; III é princípio; IV é resultado verificável.",
+      "I explica a razão de existir; III não define o propósito da organização.",
+      "Transparência é princípio; tempo de resposta com prazo é meta."
+    ],
+    "evidence": "Aplicação autoral de conteúdo explícito dos slides. A estimativa é qualitativa e se refere ao tema."
+  },
+  {
+    "id": "A03",
+    "topic": "SWOT",
+    "difficulty": "Difícil",
+    "prob": "Alta",
+    "source": "Aula 1 · slides 18–20; Lista 1",
+    "origin": "Autoral",
+    "stem": "Uma empresa tem equipe técnica reconhecida, mas sofre com retrabalho. Um edital financiará digitalização, enquanto um concorrente estrangeiro entra no mercado. Qual leitura associa corretamente uma ação ao cruzamento SWOT da aula?",
+    "hint": "Mantenha a nomenclatura da aula: desenvolvimento usa forças e oportunidades.",
+    "options": [
+      "Usar a equipe no edital configura manutenção.",
+      "Corrigir retrabalho ante o rival configura crescimento.",
+      "Usar a equipe no edital configura desenvolvimento.",
+      "Usar a equipe contra o rival configura sobrevivência.",
+      "Corrigir retrabalho ante o rival configura desenvolvimento."
+    ],
+    "answer": 2,
+    "reasons": [
+      "Equipe é força e edital é oportunidade: desenvolvimento. Manutenção exige ameaça.",
+      "Retrabalho é fraqueza e rival é ameaça: sobrevivência.",
+      "Equipe é força e edital é oportunidade. Sua combinação caracteriza desenvolvimento no quadro da aula.",
+      "Força mais ameaça caracteriza manutenção.",
+      "Fraqueza mais ameaça caracteriza sobrevivência."
+    ],
+    "evidence": "Aplicação autoral de conteúdo explícito dos slides. A estimativa é qualitativa e se refere ao tema."
+  },
+  {
+    "id": "A04",
+    "topic": "Porter",
+    "difficulty": "Difícil",
+    "prob": "Muito alta",
+    "source": "Aula 2 · slides 7–8; Listas 2–3",
+    "origin": "Autoral",
+    "stem": "Um ERP disputa clientes com outros ERPs. Alguns usuários deixam a categoria e passam a controlar o negócio por planilhas. Ao mesmo tempo, um único provedor de nuvem eleva seus preços. A sequência das forças é:",
+    "hint": "Diferencie concorrente da mesma categoria, outra solução para a necessidade e fornecedor de insumo.",
+    "options": [
+      "Substitutos, rivalidade e compradores.",
+      "Rivalidade, entrantes e fornecedores.",
+      "Entrantes, substitutos e compradores.",
+      "Rivalidade, substitutos e fornecedores.",
+      "Compradores, rivalidade e entrantes."
+    ],
+    "answer": 3,
+    "reasons": [
+      "Outros ERPs representam rivalidade; o provedor é fornecedor.",
+      "Planilhas já disponíveis substituem a solução, sem exigir entrada de uma empresa no setor.",
+      "A disputa com ERPs existentes é rivalidade; nuvem é insumo fornecido.",
+      "ERPs existentes rivalizam; planilhas são substitutos; nuvem representa poder do fornecedor.",
+      "Não há barganha explícita dos compradores nem entrada descrita na sequência."
+    ],
+    "evidence": "Aplicação autoral de conteúdo explícito dos slides. A estimativa é qualitativa e se refere ao tema."
+  },
+  {
+    "id": "A05",
+    "topic": "Porter",
+    "difficulty": "Difícil",
+    "prob": "Muito alta",
+    "source": "Aula 2 · slides 9–12",
+    "origin": "Autoral",
+    "stem": "Uma empresa vende exclusivamente para pequenos escritórios jurídicos. Padroniza o serviço e automatiza o atendimento para operar com custo inferior ao dos concorrentes desse nicho. A estratégia descrita é:",
+    "hint": "Analise duas dimensões independentes: escopo do mercado e fonte da vantagem.",
+    "options": [
+      "Liderança em custo em mercado amplo.",
+      "Enfoque em custo no segmento escolhido.",
+      "Diferenciação ampla pelo uso de tecnologia.",
+      "Enfoque em diferenciação pela automação.",
+      "Desenvolvimento de mercado pela especialização."
+    ],
+    "answer": 1,
+    "reasons": [
+      "Existe baixo custo, mas o escopo informado é restrito.",
+      "A empresa atende um nicho e busca baixo custo dentro dele: enfoque em custo.",
+      "Tecnologia não implica diferencial percebido; aqui seu efeito declarado é reduzir custo.",
+      "A fonte de vantagem explicitada é custo, não unicidade valorizada.",
+      "Especialização no nicho não demonstra entrada em um mercado novo."
+    ],
+    "evidence": "Aplicação autoral de conteúdo explícito dos slides. A estimativa é qualitativa e se refere ao tema."
+  },
+  {
+    "id": "A06",
+    "topic": "BSC e OKR",
+    "difficulty": "Média",
+    "prob": "Alta",
+    "source": "Aula 2 · slides 14–18",
+    "origin": "Autoral",
+    "stem": "Um BSC acompanha margem operacional, retenção de clientes, taxa de defeitos e capacitação da equipe. A qual perspectiva pertence a taxa de defeitos?",
+    "hint": "Procure o objeto medido diretamente, não todas as consequências que ele pode provocar.",
+    "options": [
+      "Financeira, porque defeitos elevam despesas.",
+      "Clientes, porque falhas afetam satisfação.",
+      "Processos internos, pela taxa de defeitos.",
+      "Aprendizado, pela necessidade de treinamento.",
+      "Financeira, porque qualidade aumenta receita."
+    ],
+    "answer": 2,
+    "reasons": [
+      "Custos podem ser consequência, mas o indicador mede diretamente qualidade do processo.",
+      "Satisfação é consequência possível; defeitos medem a execução interna.",
+      "A taxa de defeitos mede qualidade do processo produtivo ou de prestação de serviço.",
+      "Capacitação é aprendizado; defeitos medem desempenho do processo.",
+      "Receita é uma medida financeira distinta do indicador apresentado."
+    ],
+    "evidence": "Aplicação autoral de conteúdo explícito dos slides. A estimativa é qualitativa e se refere ao tema."
+  },
+  {
+    "id": "A07",
+    "topic": "BSC e OKR",
+    "difficulty": "Difícil",
+    "prob": "Alta",
+    "source": "Aula 2 · slides 14–18",
+    "origin": "Autoral",
+    "stem": "Um mapa estratégico prevê que capacitar analistas reduzirá erros, elevará a satisfação e melhorará a retenção, contribuindo para a receita. Qual interpretação é a mais adequada?",
+    "hint": "Uma seta no mapa estratégico representa uma relação que precisa ser acompanhada.",
+    "options": [
+      "A capacitação pertence à perspectiva financeira.",
+      "A receita torna dispensáveis os indicadores anteriores.",
+      "A satisfação substitui a medida de qualidade interna.",
+      "As perspectivas são independentes entre si.",
+      "Há uma hipótese de causa e efeito a monitorar."
+    ],
+    "answer": 4,
+    "reasons": [
+      "Capacitação integra aprendizado e crescimento, mesmo quando afeta resultados financeiros.",
+      "Indicadores anteriores ajudam a verificar por que o resultado financeiro ocorre ou falha.",
+      "Qualidade e satisfação pertencem a objetos e perspectivas distintos.",
+      "O mapa liga perspectivas para traduzir a estratégia.",
+      "O encadeamento é uma hipótese estratégica: acompanhar as medidas ajuda a verificar se a relação se realiza."
+    ],
+    "evidence": "Aplicação autoral de conteúdo explícito dos slides. A estimativa é qualitativa e se refere ao tema."
+  },
+  {
+    "id": "A08",
+    "topic": "BSC e OKR",
+    "difficulty": "Difícil",
+    "prob": "Alta",
+    "source": "Aula 2 · slide 19",
+    "origin": "Autoral",
+    "stem": "O objetivo de um OKR é “Tornar o suporte mais confiável”. Qual resultado-chave mede melhor a realização desse objetivo no trimestre?",
+    "hint": "Diferencie uma entrega de atividade da mudança de desempenho esperada.",
+    "options": [
+      "Realizar três reuniões de melhoria do suporte até o fim do trimestre.",
+      "Reduzir reaberturas de 12% para 5% até o fim do trimestre.",
+      "Implantar o novo registro de chamados até o fim do trimestre.",
+      "Entregar manuais de suporte revisados até o fim do trimestre.",
+      "Contratar dois analistas de suporte até o fim do trimestre."
+    ],
+    "answer": 1,
+    "reasons": [
+      "Reuniões são atividades; não demonstram por si a confiabilidade obtida.",
+      "A taxa de reabertura mede resultado, com linha de base, alvo e prazo verificáveis.",
+      "A implantação é iniciativa; seu impacto no suporte ainda precisa ser medido.",
+      "O manual é uma entrega de apoio, não a melhora do desempenho em si.",
+      "Contratação é iniciativa de capacidade; não comprova confiabilidade."
+    ],
+    "evidence": "Aplicação autoral de conteúdo explícito dos slides. A estimativa é qualitativa e se refere ao tema."
+  },
+  {
+    "id": "A09",
+    "topic": "GUT",
+    "difficulty": "Média",
+    "prob": "Alta",
+    "source": "Aula 2 · slide 20 e imagem GUT; Lista 2 · Q5",
+    "origin": "Autoral",
+    "stem": "Uma equipe usa G × U × T. O problema X recebe (5, 2, 4), Y recebe (3, 5, 3) e Z recebe (4, 4, 2). Pela pontuação, qual é a ordem de prioridade?",
+    "hint": "Calcule os três produtos antes de comparar. A soma produz outra ordenação.",
+    "options": [
+      "X, Y e Z.",
+      "Z, X e Y.",
+      "Y, Z e X.",
+      "X, Z e Y.",
+      "Y, X e Z."
+    ],
+    "answer": 4,
+    "reasons": [
+      "X = 40, menor que Y = 45.",
+      "Z = 32, a menor pontuação dos três.",
+      "Y lidera, mas X = 40 supera Z = 32.",
+      "Y = 45 deve vir antes dos outros dois.",
+      "Y = 45, X = 40 e Z = 32. A ordem decrescente é Y, X, Z."
+    ],
+    "evidence": "Aplicação autoral de conteúdo explícito dos slides. A estimativa é qualitativa e se refere ao tema."
+  },
+  {
+    "id": "A10",
+    "topic": "GUT",
+    "difficulty": "Difícil",
+    "prob": "Alta",
+    "source": "Aula 2 · slide 20 e imagem GUT",
+    "origin": "Autoral",
+    "stem": "Duas falhas têm impacto semelhante e precisam de solução no mesmo prazo. A primeira permanece estável; a segunda se agrava a cada dia. Na GUT, qual critério diferencia diretamente as falhas?",
+    "hint": "Pergunte qual critério olha para a evolução do problema se nada for feito.",
+    "options": [
+      "Gravidade, pelo impacto atual.",
+      "Urgência, pelo prazo de solução.",
+      "Tendência, pela evolução provável.",
+      "Gravidade, pela frequência diária.",
+      "Urgência, pelo custo acumulado."
+    ],
+    "answer": 2,
+    "reasons": [
+      "O impacto foi descrito como semelhante.",
+      "O prazo de solução foi descrito como igual.",
+      "Tendência mede a evolução ou agravamento provável ao longo do tempo.",
+      "A frequência pode ajudar a análise, mas o dado decisivo é a piora futura.",
+      "Custo pode influenciar impacto; urgência trata do tempo disponível para agir."
+    ],
+    "evidence": "Aplicação autoral de conteúdo explícito dos slides. A estimativa é qualitativa e se refere ao tema."
+  },
+  {
+    "id": "A11",
+    "topic": "Canvas",
+    "difficulty": "Difícil",
+    "prob": "Muito alta",
+    "source": "Aula 2 · slides 21–30; Listas 2–3",
+    "origin": "Autoral",
+    "stem": "No Canvas de um software: I. consultorias que indicam clientes e ajudam na implantação; II. equipe e plataforma próprias; III. desenvolver integrações; IV. assinatura mensal. A sequência dos blocos é:",
+    "hint": "Separe agentes aliados, ativos, ações e mecanismo de entrada de dinheiro.",
+    "options": [
+      "Parcerias, recursos, atividades e receitas.",
+      "Recursos, parcerias, atividades e custos.",
+      "Canais, atividades, recursos e receitas.",
+      "Parcerias, atividades, recursos e custos.",
+      "Relacionamento, recursos, canais e receitas."
+    ],
+    "answer": 0,
+    "reasons": [
+      "Aliados são parcerias; equipe/plataforma são recursos; desenvolver é atividade; assinatura é receita.",
+      "Consultorias são agentes aliados; equipe própria é recurso. Assinatura é receita, não custo.",
+      "O caso descreve cooperação, ativos e execução. Não descreve canais no item III.",
+      "Os itens II e III foram invertidos, e assinatura não é custo.",
+      "Relacionamento trata de como manter vínculos com clientes; desenvolver integrações é atividade."
+    ],
+    "evidence": "Aplicação autoral de conteúdo explícito dos slides. A estimativa é qualitativa e se refere ao tema."
+  },
+  {
+    "id": "A12",
+    "topic": "Canvas",
+    "difficulty": "Média",
+    "prob": "Muito alta",
+    "source": "Aula 2 · slides 22–25",
+    "origin": "Autoral",
+    "stem": "Uma startup anuncia “reduzir o retrabalho na conciliação de pequenas lojas”. Ela faz demonstrações por webinars e mantém suporte individual após a venda. Os três elementos correspondem a:",
+    "hint": "Benefício prometido, meio de comunicação e forma de vínculo têm papéis diferentes.",
+    "options": [
+      "Segmento de clientes, relacionamento e canais.",
+      "Recursos-chave, canais e atividades-chave.",
+      "Proposta de valor, parcerias-chave e canais.",
+      "Proposta de valor, canais e relacionamento.",
+      "Atividades, segmento e relacionamento."
+    ],
+    "answer": 3,
+    "reasons": [
+      "A promessa de reduzir retrabalho é proposta de valor; webinar é canal.",
+      "O benefício não é um ativo, e suporte individual caracteriza relacionamento neste caso.",
+      "Webinar é meio de comunicação, não um parceiro. Suporte descreve vínculo.",
+      "Benefício ao cliente é proposta de valor; webinar é canal; suporte individual é relacionamento.",
+      "Atividade é o que se faz para entregar valor; aqui o primeiro elemento é o valor prometido."
+    ],
+    "evidence": "Aplicação autoral de conteúdo explícito dos slides. A estimativa é qualitativa e se refere ao tema."
+  },
+  {
+    "id": "A13",
+    "topic": "Ambiente",
+    "difficulty": "Média",
+    "prob": "Média",
+    "source": "Aula 3 · slides 2–4",
+    "origin": "Autoral",
+    "stem": "Uma empresa atende públicos muito diferentes, com fornecedores especializados por segmento. Porém, suas exigências e regras mudam pouco ao longo dos anos. O ambiente é predominantemente:",
+    "hint": "Diversidade de elementos e velocidade de mudança são eixos distintos.",
+    "options": [
+      "Homogêneo e instável.",
+      "Heterogêneo e estável.",
+      "Homogêneo e estável.",
+      "Heterogêneo e instável.",
+      "Estável e necessariamente simples."
+    ],
+    "answer": 1,
+    "reasons": [
+      "Há diversidade de públicos e fornecedores, mas pouca mudança.",
+      "Diversidade indica heterogeneidade; pouca mudança indica estabilidade.",
+      "A estabilidade está correta, mas a diversidade contradiz homogeneidade.",
+      "A heterogeneidade está correta, porém as exigências mudam pouco.",
+      "Estabilidade não elimina diversidade ou complexidade."
+    ],
+    "evidence": "Aplicação autoral de conteúdo explícito dos slides. A estimativa é qualitativa e se refere ao tema."
+  },
+  {
+    "id": "A14",
+    "topic": "Ambiente",
+    "difficulty": "Difícil",
+    "prob": "Média",
+    "source": "Aula 3 · slide 2",
+    "origin": "Autoral",
+    "stem": "Ao mapear o ambiente, um gestor registra: negociação com um fornecedor, disputa com concorrente, alta geral dos juros e mudança demográfica. Quais pertencem, respectivamente, ao ambiente de tarefa e ao ambiente geral?",
+    "hint": "Tarefa envolve atores próximos das operações; geral envolve condições amplas.",
+    "options": [
+      "Juros e demografia; fornecedor e concorrente.",
+      "Fornecedor e juros; concorrente e demografia.",
+      "Fornecedor e concorrente; juros e demografia.",
+      "Concorrente e demografia; fornecedor e juros.",
+      "Fornecedor e demografia; concorrente e juros."
+    ],
+    "answer": 2,
+    "reasons": [
+      "Os grupos estão invertidos.",
+      "Fornecedor é tarefa, mas juros são uma condição econômica geral.",
+      "Fornecedor e concorrente são atores próximos; juros e demografia são condições do macroambiente.",
+      "Demografia é geral, enquanto fornecedor integra tarefa.",
+      "Demografia é geral, e concorrente integra tarefa."
+    ],
+    "evidence": "Aplicação autoral de conteúdo explícito dos slides. A estimativa é qualitativa e se refere ao tema."
+  },
+  {
+    "id": "A15",
+    "topic": "BCG e ciclo",
+    "difficulty": "Média",
+    "prob": "Média",
+    "source": "Aula 3 · slide 6",
+    "origin": "Autoral",
+    "stem": "Um produto tem alta participação relativa em um mercado de baixo crescimento. Outro tem baixa participação relativa em um mercado de alto crescimento. Na BCG, são, respectivamente:",
+    "hint": "Use simultaneamente os dois eixos; crescimento não é participação.",
+    "options": [
+      "Estrela e abacaxi.",
+      "Interrogação e estrela.",
+      "Vaca leiteira e abacaxi.",
+      "Estrela e interrogação.",
+      "Vaca leiteira e interrogação."
+    ],
+    "answer": 4,
+    "reasons": [
+      "Estrela exige alto crescimento; abacaxi exige baixo crescimento.",
+      "O primeiro tem alta participação; o segundo tem baixa.",
+      "O segundo está em mercado de alto crescimento, por isso não é abacaxi.",
+      "O primeiro tem baixo crescimento, por isso não é estrela.",
+      "Alta participação/baixo crescimento é vaca leiteira; baixa participação/alto crescimento é interrogação."
+    ],
+    "evidence": "Aplicação autoral de conteúdo explícito dos slides. A estimativa é qualitativa e se refere ao tema."
+  },
+  {
+    "id": "A16",
+    "topic": "BCG e ciclo",
+    "difficulty": "Difícil",
+    "prob": "Média",
+    "source": "Aula 3 · slide 6",
+    "origin": "Autoral",
+    "stem": "A direção considera investir em uma interrogação para ganhar participação. Qual avaliação respeita a lógica da BCG sem transformar o modelo em uma regra automática?",
+    "hint": "A matriz descreve posição relativa; decisões também exigem viabilidade e capacidade de investir.",
+    "options": [
+      "Avaliar potencial e recursos antes de buscar torná-la estrela.",
+      "Retirar o produto porque o baixo crescimento impede expansão.",
+      "Colher caixa porque toda interrogação já domina seu mercado.",
+      "Tratá-la como vaca leiteira porque o setor cresce rapidamente.",
+      "Investir sem análise porque o alto crescimento garante retorno."
+    ],
+    "answer": 0,
+    "reasons": [
+      "Interrogação tem baixo share e alto crescimento. Investir pode aumentar participação, mas exige análise e não garante sucesso.",
+      "O crescimento é alto; retirada pode ser opção após análise, não pela condição afirmada.",
+      "Interrogação tem baixa participação, não domínio do mercado.",
+      "Vaca leiteira combina alta participação com baixo crescimento.",
+      "Crescimento do mercado não garante rentabilidade ou capacidade competitiva."
+    ],
+    "evidence": "Aplicação autoral de conteúdo explícito dos slides. A estimativa é qualitativa e se refere ao tema."
+  },
+  {
+    "id": "A17",
+    "topic": "BCG e ciclo",
+    "difficulty": "Média",
+    "prob": "Média",
+    "source": "Aula 3 · slide 5",
+    "origin": "Autoral",
+    "stem": "Um produto já tem ampla adoção. O ritmo de crescimento das vendas diminui, e a empresa prioriza eficiência, retenção e diferenciação para defender a posição. A fase predominante é:",
+    "hint": "A desaceleração do crescimento pode ocorrer antes da queda das vendas.",
+    "options": [
+      "Introdução.",
+      "Crescimento inicial.",
+      "Declínio.",
+      "Maturidade.",
+      "Interrogação."
+    ],
+    "answer": 3,
+    "reasons": [
+      "Introdução envolve lançamento e adoção ainda limitada.",
+      "O caso descreve adoção ampla e desaceleração, não expansão inicial.",
+      "Declínio pressupõe redução das vendas; desaceleração do crescimento não basta.",
+      "Adoção ampla e crescimento mais lento caracterizam maturidade.",
+      "Interrogação é uma posição na BCG, não uma fase do ciclo de vida."
+    ],
+    "evidence": "Aplicação autoral de conteúdo explícito dos slides. A estimativa é qualitativa e se refere ao tema."
+  },
+  {
+    "id": "A18",
+    "topic": "Marketing",
+    "difficulty": "Média",
+    "prob": "Média",
+    "source": "Aula 3 · slides 7–8",
+    "origin": "Autoral",
+    "stem": "Uma loja revê a política de descontos, passa a vender em um marketplace e cria uma campanha de divulgação. A sequência dos elementos do mix é:",
+    "hint": "Condições monetárias, acesso ao produto e comunicação têm Ps distintos.",
+    "options": [
+      "Promoção, praça e preço.",
+      "Preço, praça e promoção.",
+      "Preço, promoção e praça.",
+      "Produto, preço e promoção.",
+      "Praça, produto e preço."
+    ],
+    "answer": 1,
+    "reasons": [
+      "Descontos integram preço; a campanha integra promoção.",
+      "Descontos são preço; marketplace é praça/distribuição; campanha é promoção.",
+      "Marketplace é canal de distribuição, enquanto campanha é comunicação.",
+      "Descontos não são o produto e marketplace não define preço.",
+      "Os três elementos foram atribuídos a objetos diferentes dos descritos."
+    ],
+    "evidence": "Aplicação autoral de conteúdo explícito dos slides. A estimativa é qualitativa e se refere ao tema."
+  },
+  {
+    "id": "A19",
+    "topic": "Marketing",
+    "difficulty": "Média",
+    "prob": "Média",
+    "source": "Aula 3 · slide 8",
+    "origin": "Autoral",
+    "stem": "Dois equipamentos têm características físicas equivalentes. Uma marca oferece instalação, entrega e pós-venda superiores. Considerando a representação da oferta nos slides, qual análise é adequada?",
+    "hint": "Observe as camadas além do objeto físico no diagrama da aula.",
+    "options": [
+      "A oferta se limita ao objeto físico entregue.",
+      "O pós-venda pertence apenas à decisão de preço.",
+      "Os serviços alteram somente o canal de promoção.",
+      "A equivalência física torna as ofertas idênticas.",
+      "Serviços associados ampliam o valor percebido."
+    ],
+    "answer": 4,
+    "reasons": [
+      "O diagrama inclui atendimento, entrega e pós-venda além do físico.",
+      "Pós-venda compõe o serviço associado à oferta; pode afetar preço, mas não se reduz a ele.",
+      "Serviços associados não são apenas divulgação.",
+      "Experiência e serviços podem diferenciar propostas com objetos equivalentes.",
+      "A camada de serviços amplia a oferta percebida e pode sustentar diferenciação."
+    ],
+    "evidence": "Aplicação autoral de conteúdo explícito dos slides. A estimativa é qualitativa e se refere ao tema."
+  },
+  {
+    "id": "A20",
+    "topic": "Fundamentos",
+    "difficulty": "Média",
+    "prob": "Média",
+    "source": "Aula 1 · slides 8–11",
+    "origin": "Autoral",
+    "stem": "Antes de entrar em um segmento, uma gestora avalia suas capacidades, estuda concorrentes e adapta o plano às condições locais. Qual lição de Sun Tzu está mais diretamente aplicada?",
+    "hint": "O enunciado combina informação sobre os dois lados e adaptação ao terreno.",
+    "options": [
+      "Concentrar toda a análise no volume de recursos.",
+      "Preservar a tática mesmo quando o ambiente mudar.",
+      "Conhecer a si e ao rival, ajustando-se ao contexto.",
+      "Substituir informações pela lealdade dos liderados.",
+      "Escolher o confronto direto em qualquer circunstância."
+    ],
+    "answer": 2,
+    "reasons": [
+      "O foco descrito é conhecimento e adaptação, não apenas volume.",
+      "A flexibilidade faz parte das lições apresentadas.",
+      "Conhecer capacidades próprias, concorrentes e contexto fundamenta a escolha estratégica.",
+      "Lealdade é relevante na aula, mas não substitui inteligência.",
+      "A aula ressalta saber quando lutar e até vencer sem lutar."
+    ],
+    "evidence": "Aplicação autoral de conteúdo explícito dos slides. A estimativa é qualitativa e se refere ao tema."
+  },
+  {
+    "id": "A21",
+    "topic": "Fundamentos",
+    "difficulty": "Difícil",
+    "prob": "Média",
+    "source": "Aula 1 · slides 10–11",
+    "origin": "Autoral",
+    "stem": "Uma liderança prepara alternativas para mudanças regulatórias e investe em competências internas, embora reconheça que eventos externos podem alterar o resultado. Na abordagem de Maquiavel apresentada na aula, isso expressa:",
+    "hint": "Virtù é capacidade de agir; fortuna remete às circunstâncias e ao acaso.",
+    "options": [
+      "Virtù para agir diante da fortuna e do contexto.",
+      "Fortuna como domínio completo das circunstâncias.",
+      "Virtù como dependência integral de favores externos.",
+      "Fortuna como substituição do planejamento pela sorte.",
+      "Virtù como manutenção de uma decisão sem adaptação."
+    ],
+    "answer": 0,
+    "reasons": [
+      "A habilidade e o preparo permitem responder às circunstâncias, sem eliminar o acaso.",
+      "Fortuna não significa controle completo do contexto.",
+      "Virtù envolve habilidade e capacidade de ação, não dependência integral.",
+      "Reconhecer o acaso não dispensa preparo e análise.",
+      "A aula destaca adaptação e pragmatismo, não rigidez."
+    ],
+    "evidence": "Aplicação autoral de conteúdo explícito dos slides. A estimativa é qualitativa e se refere ao tema."
+  },
+  {
+    "id": "A22",
+    "topic": "Popper",
+    "difficulty": "Difícil",
+    "prob": "Média",
+    "source": "P Estratégico · AV1 · proposta sobre indução e Popper",
+    "origin": "Autoral",
+    "stem": "Após estudar três empresas bem-sucedidas que adotaram squads, um consultor afirma: “Squads elevam o desempenho de qualquer organização.” Qual crítica é mais consistente com a proposta da atividade sobre Popper?",
+    "hint": "Pergunte se observar casos favoráveis prova uma afirmação universal.",
+    "options": [
+      "Três casos garantem validade se forem muito conhecidos.",
+      "A afirmação é válida se os gestores relatarem satisfação.",
+      "A popularidade da prática dispensa buscar contraexemplos.",
+      "Os casos sugerem uma hipótese que requer testes críticos.",
+      "A hipótese só é científica se nunca puder ser contrariada."
+    ],
+    "answer": 3,
+    "reasons": [
+      "Prestígio e repetição de casos favoráveis não provam universalidade.",
+      "Satisfação relatada não demonstra a regra universal ou sua causalidade.",
+      "Popularidade não substitui confronto com evidências contrárias.",
+      "Casos favoráveis inspiram hipótese, mas testes e condições de refutação são necessários.",
+      "A possibilidade de ser contrariada por evidências é central à falseabilidade."
+    ],
+    "evidence": "Tema explícito em uma atividade fornecida, sem repetição nas listas. Prioridade secundária; não foi presumida a leitura do artigo citado."
+  },
+  {
+    "id": "A23",
+    "topic": "Popper",
+    "difficulty": "Difícil",
+    "prob": "Média",
+    "source": "P Estratégico · AV1 · proposta sobre benchmarking",
+    "origin": "Autoral",
+    "stem": "Uma empresa quer reproduzir o processo de uma líder do setor. Qual procedimento torna o benchmarking mais confiável diante dos limites da indução?",
+    "hint": "Comparação útil exige contexto, medida de resultado e possibilidade de abandonar a hipótese.",
+    "options": [
+      "Copiar o processo e atribuir desvios à falta de disciplina.",
+      "Adaptar a prática e testar com critérios definidos.",
+      "Selecionar apenas relatos em que a prática teve sucesso.",
+      "Tratar a reputação da líder como evidência causal suficiente.",
+      "Adotar a prática e medir somente a adesão dos funcionários."
+    ],
+    "answer": 1,
+    "reasons": [
+      "Atribuir todo desvio à execução protege a hipótese contra refutação.",
+      "Comparar contextos, adaptar e testar permite verificar se a prática ajuda nesse caso.",
+      "Selecionar apenas sucessos introduz viés de seleção e oculta fracassos.",
+      "Reputação não demonstra que a prática causou o sucesso.",
+      "Adesão mede uso da prática, não comprova o resultado estratégico."
+    ],
+    "evidence": "Cobrança explícita na atividade sobre Popper e benchmarking; não aparece nas listas objetivas fornecidas."
+  },
+  {
+    "id": "A24",
+    "topic": "Integração",
+    "difficulty": "Difícil",
+    "prob": "Alta",
+    "source": "Planejamento Estratégico · AV1 · estrutura do pitch; Aulas 1–2",
+    "origin": "Autoral",
+    "stem": "Uma consultoria identifica baixa retenção em um software para clínicas. A direção escolhe diferenciar-se por atendimento especializado. Qual desdobramento apresenta maior coerência entre estratégia e controle?",
+    "hint": "Ligue o problema, a fonte de valor e uma medida do resultado esperado.",
+    "options": [
+      "Aumentar campanhas e medir somente o número de anúncios.",
+      "Reduzir preços e medir apenas o volume de visitas ao site.",
+      "Treinar suporte e medir retenção com meta e prazo.",
+      "Ampliar segmentos e acompanhar o total de apresentações.",
+      "Contratar vendedores e registrar somente reuniões internas."
+    ],
+    "answer": 2,
+    "reasons": [
+      "Anúncios medem atividade de divulgação, sem verificar a retenção ou a qualidade do suporte.",
+      "Desconto não sustenta diretamente o diferencial escolhido, e visitas não medem retenção.",
+      "Capacitação apoia o atendimento especializado; retenção com meta e prazo verifica o resultado pretendido.",
+      "Ampliação de segmentos não segue necessariamente o posicionamento escolhido e apresentações não verificam retenção.",
+      "Contratações e reuniões são iniciativas, sem indicador do resultado estratégico."
+    ],
+    "evidence": "Aplicação autoral de conteúdo explícito dos slides. A estimativa é qualitativa e se refere ao tema."
+  },
+  {
+    "id": "A25",
+    "topic": "BSC e OKR",
+    "difficulty": "Difícil",
+    "prob": "Alta",
+    "source": "Aula 2 · slides 14–19; Planejamento Estratégico · AV1 · indicadores",
+    "origin": "Autoral",
+    "stem": "Um plano apresenta: objetivo “melhorar a experiência”; indicador “tempo médio de primeira resposta”; meta “até 30 minutos até dezembro”; iniciativa “treinar a equipe”. Qual afirmação distingue corretamente esses elementos?",
+    "hint": "Direção, régua, valor desejado e ação não são intercambiáveis.",
+    "options": [
+      "O treinamento é o indicador da experiência.",
+      "A meta é a direção sem um valor verificável.",
+      "O indicador é a ação executada pela equipe.",
+      "O objetivo já substitui a necessidade de uma meta.",
+      "Indicador mede; meta fixa valor e prazo."
+    ],
+    "answer": 4,
+    "reasons": [
+      "Treinamento é uma ação. O tempo de resposta é a medida.",
+      "A meta contém alvo e prazo; a direção ampla é o objetivo.",
+      "Indicador é uma medida, não uma iniciativa.",
+      "O objetivo amplo precisa de critérios verificáveis para acompanhamento.",
+      "Indicador é a régua; meta estabelece o valor e o prazo. A iniciativa busca produzir o resultado."
+    ],
+    "evidence": "Aplicação autoral de conteúdo explícito dos slides. A estimativa é qualitativa e se refere ao tema."
+  },
+  {
+    "id": "A26",
+    "topic": "Crescimento",
+    "difficulty": "Média",
+    "prob": "Média",
+    "source": "Aula 2 · slide 13 · diagrama",
+    "origin": "Autoral",
+    "stem": "Uma empresa enfrenta risco de continuidade e decide reduzir despesas e adiar investimentos. Outra amplia a atuação por inovação e expansão. Segundo o diagrama de estratégias de crescimento de negócios da Aula 2, essas ações se associam, respectivamente, a:",
+    "hint": "Use as ações exemplificadas no diagrama, sem confundi-lo com as estratégias genéricas de Porter.",
+    "options": [
+      "Manutenção e desenvolvimento.",
+      "Sobrevivência e crescimento.",
+      "Desenvolvimento e manutenção.",
+      "Crescimento e sobrevivência.",
+      "Manutenção e internacionalização."
+    ],
+    "answer": 1,
+    "reasons": [
+      "O diagrama associa reduzir custos e postergar investimentos à sobrevivência; inovação e expansão ao crescimento.",
+      "Sobrevivência contém redução de custos e adiamento de investimentos; crescimento contém inovação e expansão.",
+      "Desenvolvimento contém mercados, produtos/serviços e parcerias; manutenção contém nicho e especialização.",
+      "A sequência das estratégias está invertida.",
+      "O segundo caso não descreve operações internacionais."
+    ],
+    "evidence": "Aplicação autoral de conteúdo explícito dos slides. A estimativa é qualitativa e se refere ao tema."
+  },
+  {
+    "id": "A27",
+    "topic": "Crescimento",
+    "difficulty": "Difícil",
+    "prob": "Média",
+    "source": "Aula 2 · slide 13 · diagrama; PDF fornecido · complemento Ansoff",
+    "origin": "Autoral",
+    "stem": "Uma empresa leva seu software atual para uma região em que ainda não atua, preservando as funções principais do produto. Na matriz produto–mercado apresentada no PDF de revisão, essa escolha é:",
+    "hint": "Verifique separadamente se o produto e o mercado são atuais ou novos.",
+    "options": [
+      "Penetração de mercado.",
+      "Desenvolvimento de produto.",
+      "Diversificação de negócios.",
+      "Desenvolvimento de mercado.",
+      "Integração vertical."
+    ],
+    "answer": 3,
+    "reasons": [
+      "Penetração amplia vendas do produto atual no mercado atual. A região é nova para a empresa.",
+      "Desenvolvimento de produto exige produto novo para mercado atual.",
+      "Diversificação combina produto novo e mercado novo; o software foi mantido.",
+      "Produto atual em mercado novo caracteriza desenvolvimento de mercado.",
+      "Integração vertical envolve etapas da cadeia, não a entrada geográfica descrita."
+    ],
+    "evidence": "Complemento explícito do PDF de revisão. O slide 13 cita desenvolvimento de mercado, mas não apresenta a matriz Ansoff. Prioridade secundária."
+  }
+]
